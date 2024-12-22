@@ -18,7 +18,7 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll -->
 
 
-Hey there 👋, 
+Hey there 🫡, 
 
 Welcome to my little corner known as the `Chamber of Secrets`. Fancy name huh? I must confess, I drew inspiration for the name from the enchanting world of Harry Potter. However, let's embrace simplicity as I invite you to a space where introspective conversations, thought-sharing, and the captivating realm of technology intertwine. It's a platform where I express my inner musings while exploring all things techy.
 
